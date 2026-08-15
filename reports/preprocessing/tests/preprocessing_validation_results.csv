@@ -1,0 +1,27 @@
+Test,Status
+Pipeline Stats Cached,PASS
+Label Encoder Classes Recorded,PASS
+File : X_train_smote.parquet,PASS
+File : X_train_scaled.parquet,PASS
+File : X_validation_scaled.parquet,PASS
+File : X_test_scaled.parquet,PASS
+File : y_train_smote.parquet,PASS
+File : X_train.csv,PASS
+File : X_validation.csv,PASS
+File : X_test.csv,PASS
+File : y_train.csv,PASS
+File : y_validation.csv,PASS
+File : y_test.csv,PASS
+File : metadata.json,PASS
+No NaN (sample) : X_train_scaled.parquet,PASS
+No NaN (sample) : X_validation_scaled.parquet,PASS
+No NaN (sample) : X_test_scaled.parquet,PASS
+Model : standard_scaler.pkl,PASS
+Model : label_encoder.pkl,PASS
+Model : smote.pkl,PASS
+Model : pca.pkl,PASS
+Model : umap.pkl,PASS
+Figure : feature_importance.png,PASS
+Figure : pca_visualization.png,PASS
+Figure : tsne_visualization.png,PASS
+Figure : umap_visualization.png,PASS

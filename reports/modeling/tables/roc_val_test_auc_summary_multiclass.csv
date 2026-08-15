@@ -1,0 +1,9 @@
+model,status,val_auc,test_auc,generalization_gap
+Hybrid (GNNFormer + FT-Transformer + GraphTransformer),ok,0.7472,0.7726,-0.0254
+CatBoost,ok,0.6338,0.6231,0.0107
+FT-Transformer,ok,0.577,0.6129,-0.036
+GNNFormer,ok,0.6245,0.597,0.0275
+TabGT,ok,0.5632,0.5679,-0.0048
+GraphTransformer,ok,0.5631,0.5611,0.0019
+TabM,ok,0.4163,0.3942,0.0221
+TabPFN-2.5,"load_error: Attempting to deserialize object on a CUDA device but torch.cuda.is_available() is False. If you are running on a CPU-only machine, please use torch.load with map_location=torch.device('cpu') to map your storages to the CPU.",,,

@@ -1,0 +1,10 @@
+Check,Status
+No duplicate rows: train vs test,PASS
+No duplicate rows: val vs test,PASS
+No duplicate rows: train vs val,PASS
+Identical feature columns (train == val == test),PASS
+No NaN in train features,PASS
+No NaN in test features,PASS
+No Inf in train features,PASS
+Target column absent from X_train,PASS
+Test set is imbalanced (not synthetically balanced),PASS

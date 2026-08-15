@@ -1,0 +1,9 @@
+model,display_name,status
+catboost,CatBoost,ok
+fttransformer,FT-Transformer,ok
+tabm,TabM,ok
+tabgt,TabGT,ok
+gnnformer,GNNFormer,ok
+graphtransformer,GraphTransformer,ok
+tabpfn,tabpfn,error: 'TorchAddSVDFeaturesStep' object has no attribute 'random_state'
+hybrid,Hybrid (gnnformer+fttransformer+graphtransformer),ok

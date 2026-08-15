@@ -1,0 +1,9 @@
+File,Label_Column,Is_Text_Label_Now,Sample_Labels
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Label,True,['BENIGN']
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Label,True,"['BENIGN', 'PortScan']"
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Label,True,['BENIGN']
+Monday-WorkingHours.pcap_ISCX.csv, Label,True,['BENIGN']
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Label,True,['BENIGN']
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Label,True,['BENIGN']
+Tuesday-WorkingHours.pcap_ISCX.csv, Label,True,['BENIGN']
+Wednesday-workingHours.pcap_ISCX.csv, Label,True,['BENIGN']

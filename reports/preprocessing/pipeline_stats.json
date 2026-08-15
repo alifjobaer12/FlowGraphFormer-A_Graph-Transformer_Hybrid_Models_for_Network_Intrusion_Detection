@@ -1,0 +1,11 @@
+{
+    "dataset_rows": 2830743,
+    "dataset_columns": 79,
+    "selected_features": 25,
+    "training_samples": 450000,
+    "validation_samples": 252236,
+    "testing_samples": 252236,
+    "classes": 9,
+    "smote_target_per_class": 50000,
+    "export_dir": "/content/drive/MyDrive/ML_Project/FlowGraphFormer/dataset/processed/final"
+}

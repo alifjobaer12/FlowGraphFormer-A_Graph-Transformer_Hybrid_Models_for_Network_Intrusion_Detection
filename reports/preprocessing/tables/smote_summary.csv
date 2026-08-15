@@ -1,0 +1,9 @@
+Metric,Value
+Training Samples Before,2017884
+Training Samples After,450000
+Number of Classes,9
+Target per Class,50000
+Classes Undersampled,4
+Classes Oversampled (SMOTE),5
+Classes Already at Target,0
+k_neighbors Used (SMOTE),5

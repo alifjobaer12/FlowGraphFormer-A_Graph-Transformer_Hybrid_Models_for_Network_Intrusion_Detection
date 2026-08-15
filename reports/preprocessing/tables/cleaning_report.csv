@@ -1,0 +1,9 @@
+Metric,Value
+Original Rows,2830743
+Original Columns,79
+Final Rows,2522356
+Final Columns,71
+Duplicate Rows Removed,308387
+Constant Columns Removed,8
+Missing Values Before,3128
+Missing Values After,0

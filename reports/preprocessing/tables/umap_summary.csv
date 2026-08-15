@@ -1,0 +1,6 @@
+Metric,Value
+Dataset Used,Sample Dataset
+Samples,10000
+Neighbors,15
+Minimum Distance,0.1
+Metric,euclidean

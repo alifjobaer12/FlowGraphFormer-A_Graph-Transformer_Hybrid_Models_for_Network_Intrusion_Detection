@@ -1,0 +1,26 @@
+Selected Features
+bwd_packet_length_std
+packet_length_variance
+bwd_packet_length_mean
+avg_bwd_segment_size
+average_packet_size
+packet_length_std
+bwd_packet_length_max
+total_length_of_fwd_packets
+subflow_bwd_bytes
+packet_length_mean
+subflow_fwd_bytes
+max_packet_length
+fwd_packet_length_max
+total_length_of_bwd_packets
+avg_fwd_segment_size
+fwd_packet_length_mean
+subflow_fwd_packets
+destination_port
+act_data_pkt_fwd
+bwd_header_length
+fwd_header_length
+total_fwd_packets
+psh_flag_count
+fwd_packet_length_std
+idle_max

@@ -1,0 +1,7 @@
+Metric,Value
+Training Samples,450000
+Validation Samples,252236
+Testing Samples,252236
+Number of Features,25
+Scaling Method,StandardScaler
+Output Format,Parquet (Snappy)

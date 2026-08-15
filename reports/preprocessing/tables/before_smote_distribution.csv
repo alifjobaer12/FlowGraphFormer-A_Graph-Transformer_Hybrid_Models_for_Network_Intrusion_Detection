@@ -1,0 +1,10 @@
+Class,Count
+BENIGN,1677182
+Bot,1562
+BruteForce,8498
+DDoS,102413
+DoS,154998
+Heartbleed,9
+Infiltration,29
+PortScan,72655
+WebAttack,538

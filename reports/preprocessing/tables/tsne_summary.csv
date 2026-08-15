@@ -1,0 +1,6 @@
+Metric,Value
+Dataset Used,Sample Dataset
+Samples,10000
+Perplexity,30
+Learning Rate,auto
+Initialization,pca

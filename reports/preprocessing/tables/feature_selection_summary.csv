@@ -1,0 +1,5 @@
+Metric,Value
+Original Features,70
+Selected Features,25
+Selection Method,Random Forest
+Random Forest Trees,300

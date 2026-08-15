@@ -1,0 +1,25 @@
+Check,Status
+Run config saved,PASS
+Data leakage audit saved,PASS
+Fold indices saved,PASS
+CV metrics : catboost,PASS
+Test metrics : catboost,PASS
+CV metrics : fttransformer,PASS
+Test metrics : fttransformer,PASS
+CV metrics : tabm,PASS
+Test metrics : tabm,PASS
+CV metrics : tabgt,PASS
+Test metrics : tabgt,PASS
+CV metrics : gnnformer,PASS
+Test metrics : gnnformer,PASS
+CV metrics : graphtransformer,PASS
+Test metrics : graphtransformer,PASS
+CV metrics : tabpfn,PASS
+Test metrics : tabpfn,PASS
+All-model CV summary,PASS
+All-model test summary,PASS
+Paired t-test results,PASS
+McNemar test results,PASS
+SHAP figures,PASS
+Permutation importance,PASS
+LIME explanation,PASS

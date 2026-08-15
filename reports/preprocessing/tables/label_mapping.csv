@@ -1,0 +1,10 @@
+Class ID,Class Name
+0,BENIGN
+1,Bot
+2,BruteForce
+3,DDoS
+4,DoS
+5,Heartbleed
+6,Infiltration
+7,PortScan
+8,WebAttack

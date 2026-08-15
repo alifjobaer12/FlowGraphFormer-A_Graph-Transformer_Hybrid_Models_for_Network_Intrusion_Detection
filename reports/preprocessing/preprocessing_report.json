@@ -1,0 +1,27 @@
+{
+    "generated_time": "2026-08-11 15:14:55",
+    "dataset": {
+        "samples": 2830743,
+        "features": 79,
+        "selected_features": 25,
+        "training_samples": 450000,
+        "validation_samples": 252236,
+        "testing_samples": 252236,
+        "classes": 9
+    },
+    "preprocessing": {
+        "feature_selection": "Random Forest",
+        "smote": true,
+        "smote_target_per_class": 50000,
+        "scaler": "StandardScaler",
+        "pca": true,
+        "tsne": true,
+        "umap": true
+    },
+    "generated_files": {
+        "figures": 14,
+        "tables": 30,
+        "processed_files": 41,
+        "saved_models": 15
+    }
+}

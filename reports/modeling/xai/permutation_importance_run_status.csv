@@ -1,0 +1,9 @@
+model,display_name,status,baseline_f1_macro
+catboost,CatBoost,ok,0.1297
+fttransformer,FT-Transformer,ok,0.1875
+tabm,TabM,ok,0.0093
+tabgt,TabGT,ok,0.0456
+gnnformer,GNNFormer,ok,0.099
+graphtransformer,GraphTransformer,ok,0.1311
+tabpfn,tabpfn,error: 'TorchAddSVDFeaturesStep' object has no attribute 'random_state',
+hybrid,Hybrid (gnnformer+fttransformer+graphtransformer),ok,0.1302

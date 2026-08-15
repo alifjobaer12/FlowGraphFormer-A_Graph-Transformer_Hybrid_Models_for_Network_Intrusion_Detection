@@ -1,0 +1,4 @@
+Dataset,Samples,Percentage
+Training,2017884,80.0
+Validation,252236,10.0
+Testing,252236,10.0

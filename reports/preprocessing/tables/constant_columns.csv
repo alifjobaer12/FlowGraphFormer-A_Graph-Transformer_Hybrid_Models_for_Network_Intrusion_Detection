@@ -1,0 +1,9 @@
+Constant Columns
+bwd_psh_flags
+bwd_urg_flags
+fwd_avg_bytes_bulk
+fwd_avg_packets_bulk
+fwd_avg_bulk_rate
+bwd_avg_bytes_bulk
+bwd_avg_packets_bulk
+bwd_avg_bulk_rate

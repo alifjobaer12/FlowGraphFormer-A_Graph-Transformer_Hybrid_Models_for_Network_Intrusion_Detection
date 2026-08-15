@@ -1,0 +1,26 @@
+Feature,Importance Mean,Importance Std
+bwd_packet_length_std,0.0,0.0
+packet_length_variance,0.0,0.0
+bwd_packet_length_mean,0.0,0.0
+avg_bwd_segment_size,0.0,0.0
+average_packet_size,0.0,0.0
+packet_length_std,0.0,0.0
+bwd_packet_length_max,0.0,0.0
+total_length_of_fwd_packets,0.0,0.0
+subflow_bwd_bytes,0.0,0.0
+packet_length_mean,0.0,0.0
+subflow_fwd_bytes,0.0,0.0
+max_packet_length,0.0,0.0
+fwd_packet_length_max,0.0,0.0
+total_length_of_bwd_packets,0.0,0.0
+avg_fwd_segment_size,0.0,0.0
+fwd_packet_length_mean,0.0,0.0
+subflow_fwd_packets,0.0,0.0
+destination_port,0.0,0.0
+act_data_pkt_fwd,0.0,0.0
+bwd_header_length,0.0,0.0
+fwd_header_length,0.0,0.0
+total_fwd_packets,0.0,0.0
+psh_flag_count,0.0,0.0
+fwd_packet_length_std,0.0,0.0
+idle_max,0.0,0.0

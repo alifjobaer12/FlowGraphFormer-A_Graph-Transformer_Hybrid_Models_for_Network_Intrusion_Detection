@@ -1,0 +1,9 @@
+File,Label_Column,Label_Dtype,Sample_Values,Needs_Conversion,Derived_Label_From_Filename,Filename_Match_Method,Status
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Label,object,['BENIGN'],False,,,Already text-labeled -- untouched
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Label,object,"['BENIGN', 'PortScan']",False,,,Already text-labeled -- untouched
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Label,object,['BENIGN'],False,,,Already text-labeled -- untouched
+Monday-WorkingHours.pcap_ISCX.csv, Label,object,['BENIGN'],False,,,Already text-labeled -- untouched
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Label,object,['BENIGN'],False,,,Already text-labeled -- untouched
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Label,object,['BENIGN'],False,,,Already text-labeled -- untouched
+Tuesday-WorkingHours.pcap_ISCX.csv, Label,object,['BENIGN'],False,,,Already text-labeled -- untouched
+Wednesday-workingHours.pcap_ISCX.csv, Label,object,['BENIGN'],False,,,Already text-labeled -- untouched

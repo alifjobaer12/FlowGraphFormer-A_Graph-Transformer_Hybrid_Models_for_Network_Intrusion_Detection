@@ -1,0 +1,67 @@
+# Data and generated artifacts
+dataset/raw/
+dataset/processed/
+dataset/raw_backup/
+dataset/raw_backup_prelabel/
+models/
+reports/**/predictions/
+reports/**/fold_indices.pkl
+results/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# Environments and secrets
+venv/
+.venv/
+env/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+secrets.json
+
+# Model and checkpoint files outside ignored artifact directories
+*.pkl
+*.pt
+*.cbm
+
+# Experiment tracking and generated runs
+runs/
+wandb/
+mlruns/
+lightning_logs/
+tensorboard/
+checkpoints/
+
+# Logs, caches, and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+~$*
+.cache/
+
+# Editors
+.vscode/
+.idea/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
